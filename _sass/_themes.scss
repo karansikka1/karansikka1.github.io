@@ -3,12 +3,11 @@
  ******************************************************************************/
 
 :root {
-  --global-bg-color: #24231d;
-  ;
+  --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
-  --global-text-color: #{$white-color};
-  --global-theme-color: rgb(233, 192, 8);
+  --global-text-color-light: #{$grey-color};
+  --global-theme-color: #{$purple-color};
   --global-hover-color: #{$purple-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};

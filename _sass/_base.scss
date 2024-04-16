@@ -197,6 +197,9 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  margin-left: auto;
+  display: block;
+
 
   .more-info {
     margin-bottom: 5px;
@@ -738,6 +741,10 @@ footer.sticky-bottom {
             border-bottom-style: solid;
             text-decoration: none;
           }
+        }
+
+        .honor {
+          color: red;
         }
 
         >em {
