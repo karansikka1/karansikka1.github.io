@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Misc
-permalink: /other/
+permalink: /misc/
 # description: A growing collection of your cool projects.
 nav: true
 # display_categories: [work, fun]
