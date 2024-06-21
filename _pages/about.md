@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Senior Machine Learning Scientist <br> [SRI International](https://www.sri.com/computer-vision/)
+subtitle: Senior AI Scientist <br> SRI International
 
 profile:
   align: right
@@ -27,6 +27,6 @@ His work has been [published](/publications/) at high quality venues such as CVP
 Please check the following links for more details. 
 
 - [Google-Scholar](https://scholar.google.com/citations?user=Kn-2t0oAAAAJ&hl=en)
-- [CV](/assets/pdf/cv.pdf)
+- [CV](/assets/pdf/ksikka_cv.pdf)
 - [More details about my profile](/misc/)
 
