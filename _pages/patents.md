@@ -26,8 +26,22 @@ nav_order: 2
    **Grant Year**: 2022  
    [Link](https://patents.google.com/patent/US11361470B2/en)
 
-4. **Title**: Semantically-aware image-based visual localization  
+4. **Title**: Align-to-ground, weakly supervised phrase grounding guided by image-caption alignment
+   **Patent Number**: US-2021056742-A1
+   **Inventors**: Karan Sikka, Ajay Divakaran, Samyak Dutta
+   **Grant Year**: 2022
+   [Link](https://patents.google.com/patent/US20210056742A1/en)
+
+5. **Title**: Zero-shot object detection
    **Patent Number**: US-11610384-B2  
    **Inventors**: Karan Sikka, Ajay Divakaran, Ankan Bansal  
    **Grant Year**: 2023  
    [Link](https://patents.google.com/patent/US11610384B2/en)
+
+5. **Title**: System and method for content comprehension and response 
+   **Patent Number**: US-2022138433-A1
+   **Inventors**: Ajay Divakaran, Karan Sikka, Yi Yao, Yunye Gong, Stephanie NUNN, Pritish SAHU, Michael A. COGSWELL, Jesse Hostetler, Sara RUTHERFORD-QUACH
+   **Grant Year**: 2024
+   [Link](https://patents.google.com/patent/US20240054294A1/en)
+
+
