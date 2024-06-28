@@ -40,7 +40,7 @@ nav_order: 2
 
 5. **Title**: System and method for content comprehension and response 
    **Patent Number**: US-2022138433-A1
-   **Inventors**: Ajay Divakaran, Karan Sikka, Yi Yao, Yunye Gong, Stephanie NUNN, Pritish SAHU, Michael A. COGSWELL, Jesse Hostetler, Sara RUTHERFORD-QUACH
+   **Inventors**: Ajay Divakaran, Karan Sikka, Yi Yao, Yunye Gong, Stephanie Nunn, Pritish Sahu, Michael A. Cogswell, Jesse Hostetler, Sara Rutherford
    **Grant Year**: 2024
    [Link](https://patents.google.com/patent/US20240054294A1/en)
 
