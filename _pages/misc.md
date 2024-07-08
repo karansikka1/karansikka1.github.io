@@ -44,6 +44,11 @@ Check [here](/patents)
 
 ## Press Coverage
 
+- Coverage about my work being used in some SRI ventures:
+  - [Article](https://www.sri.com/press/story/vitrina-ai-the-future-of-video-licensing-transactions/) taking about our work on multimodal recommendation being licensed to [Vitrina](https://vitrina.ai/).
+  - [Article](https://www.sri.com/press/story/kostas-hatalis-designing-multimodal-ai-for-marketing/) talking about work done with [GoCharlie.ai](https://gocharlie.ai/) on creating multimodal LLMs for marketing.
+
+
 - [Article](https://www.sri.com/ics/computer-vision/saynav-grounding-large-language-models-for-dynamic-planning-to-navigation-in-new-environments/) about our work on leveraging LLMs for planning in robotic navigation tasks. There is also a [YouTube demo](https://www.youtube.com/watch?v=_8ZnfniHGxk).
 
 - [Article](https://www.sri.com/ics/computer-vision/karan-sikka-is-helping-create-tools-to-improve-media-discourse/) about my work on using multimodal embedding models and other tools for improving social media discourse.
