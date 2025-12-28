@@ -6,7 +6,7 @@ title: Karan Sikka # the website title (if blank, full name will be used instead
 first_name: Karan
 middle_name:
 last_name: Sikka
-email:
+email: karan.sikka1@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -104,7 +104,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  contact_note: Best way to reach me is via email karan.sikka1 [at] gmail [dot] com
+  Best way to reach me is via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -287,8 +287,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sikka]
+  first_name: [Karan, K.]
 
   style: apa
   locale: en
@@ -402,7 +402,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: treue # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
